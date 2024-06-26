@@ -10,7 +10,7 @@ config_version=5
 
 [application]
 
-config/name="Missing Bee"
+config/name="Game 1: Flappy Bird"
 run/main_scene="res://scenes/game.tscn"
 config/features=PackedStringArray("4.2", "Forward Plus")
 config/icon="res://icon.svg"
